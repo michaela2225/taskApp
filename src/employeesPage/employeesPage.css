@@ -1,0 +1,6 @@
+.main-wr {
+  padding-top: 20px;
+  display: flex;
+  width: 1400px;
+  justify-content: space-between;
+}

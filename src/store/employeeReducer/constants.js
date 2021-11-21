@@ -1,0 +1,2 @@
+export const SET_FINAL_LIST_EMPLOYEE = "my-app/employees/SET_FINAL_LIST_EMPLOYEE";
+export const UPDATE_FINAL_LIST_EMPLOYEE = "my-app/employees/UPDATE_FINAL_LIST_EMPLOYEE";

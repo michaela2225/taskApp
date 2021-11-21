@@ -1,0 +1,21 @@
+.list-wr {
+  padding-left: 70px;
+  margin-top: 15px;
+  display: flex;
+  align-items: flex-start;
+  width: 880px;
+  flex-wrap: wrap;
+  border-right: 2px solid #d3d3d3;
+}
+
+.list-container-for-employee {
+  width: 25%;
+}
+
+.list-employees {
+  display: flex;
+  justify-content: center;
+  width: 880px;
+  font-size: 18px;
+  font-weight: 700;
+}

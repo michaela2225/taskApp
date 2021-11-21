@@ -1,0 +1,33 @@
+.list-dob-wr {
+  top: 20px;
+  width: 380px;
+}
+
+.list-DOB {
+  font-weight: 700;
+  padding-top: 30px;
+}
+
+.list-title {
+  font-weight: 700;
+  font-size: 18px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-bottom: 2px solid #d3d3d3;
+}
+
+.list-dob-element {
+  list-style: disc;
+}
+
+.font {
+  font-weight: 700;
+  font-size: 18px;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.font-employee {
+  font-weight: 700;
+  padding-top: 10px;
+}
